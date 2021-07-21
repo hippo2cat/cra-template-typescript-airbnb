@@ -12,8 +12,7 @@ module.exports = {
     'import/extensions': [2, {
       tsx: 'never',
       ts: 'never',
-    }],
-    'import/no-extraneous-dependencies': [2, { devDependencies: ['config-overrides.js', 'src/setupProxy.js'] }],
+    }]
   },
   settings: {
     'import/parsers': {
