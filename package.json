@@ -2,5 +2,9 @@
   "name": "@hippo2cat/cra-template-typescript-airbnb",
   "version": "0.1.0",
   "author": "shigurepoi@outlook.com",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hippo2cat/cra-template-typescript-airbnb"
+  }
 }

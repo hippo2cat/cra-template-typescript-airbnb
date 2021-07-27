@@ -5,3 +5,5 @@
 
 ## duo to cra-template package.json merge policy
 > need to split deps and devDeps by yourself
+
+## welcome PR
